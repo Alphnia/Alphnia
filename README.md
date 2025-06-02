@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Alphnia/Alphnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Skylar Yin
+## Skylar Yin
 
 * 🎓 I'm a Master's student in **Computer Engineering** at **Columbia University**  
 * 💼 Passionate about NLP, CV, software engineering, backend systems, and cloud computing
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/Alphnia" width="120" style="border-radius: 50%" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Alphnia&theme=flat&title=Followers,Stars,Commits,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ### 🛠️ Skills & Tools
