@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 * 📄 [Resume](https://docs.google.com/document/d/1ia5kFsShCLOBU4wdf4Vcr_wp3dq35sgKNM9CMJvHIEU/edit?usp=sharing) | 🔗 [LinkedIn](https://www.linkedin.com/in/skylar-yi-yin-501470326/)
 
 ---
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alphnia&theme=flat&title=Followers,Stars,Commits,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ### 🛠️ Skills & Tools
 
