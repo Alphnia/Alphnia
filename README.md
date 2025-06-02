@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Skylar (Yi) Yin 👋</h1>
+# Skylar Yin
 
-🎓 I'm a Master's student in **Computer Engineering** at **Columbia University**  
-💼 Passionate about NLP, CV, software engineering, backend systems, and cloud computing
-📄 [Resume](https://docs.google.com/document/d/1ia5kFsShCLOBU4wdf4Vcr_wp3dq35sgKNM9CMJvHIEU/edit?usp=sharing) | 🔗 [LinkedIn](https://www.linkedin.com/in/skylar-yi-yin-501470326/)
+* 🎓 I'm a Master's student in **Computer Engineering** at **Columbia University**  
+* 💼 Passionate about NLP, CV, software engineering, backend systems, and cloud computing
+* 📄 [Resume](https://docs.google.com/document/d/1ia5kFsShCLOBU4wdf4Vcr_wp3dq35sgKNM9CMJvHIEU/edit?usp=sharing) | 🔗 [LinkedIn](https://www.linkedin.com/in/skylar-yi-yin-501470326/)
 
 ---
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Alphnia" width="120" style="border-radius: 50%" />
+</p>
 
 ### 🛠️ Skills & Tools
 
